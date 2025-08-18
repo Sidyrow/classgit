@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 teste de conflito 
-=======
-beleza fera
->>>>>>> 5cd5f76 (problema solucionado)
